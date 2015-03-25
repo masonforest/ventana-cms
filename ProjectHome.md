@@ -1,0 +1,1 @@
+Content managers allow less technically advanced people have presence on the web. Some CMSs cause too many restrictions as to how the back end can be setup. Ventanna allows for customizable backends so the users can edit the data no matter how the back end is built. Ventana also frees web developers from conforming to standards imposed by the CMS.
